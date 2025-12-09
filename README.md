@@ -22,6 +22,6 @@ A simple and intuitive React Native note-taking application built with TypeScrip
 
 Happy note-taking! 📝✨
 
-Repo: 
+Repo: https://bit.ly/3XNyJEm
 
 ![App Demo](noteApp.gif)
