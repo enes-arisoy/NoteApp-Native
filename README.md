@@ -1,6 +1,6 @@
 # 📝 NoteApp
 
-A simple and intuitive React Native note-taking application built with TypeScript and modern mobile development practices.
+A simple and intuitive React Native note-taking application built with JavaScript and modern mobile development practices.
 
 ## ✨ Features
 
